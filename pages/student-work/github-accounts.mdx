@@ -1,5 +1,5 @@
 export function AccountLinks() {
-    const  accountCSV = process.env.NEXT_PUBLIC_STUDENT_GITHUB_USERNAMES;
+    const  accountCSV = process.env.NEXT_PUBLIC_STUDENT_GITHUB_USERNAMES??'';
 
     const accounts = accountCSV.split(',');
 
