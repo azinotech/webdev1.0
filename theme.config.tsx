@@ -4,7 +4,7 @@ export default {
   logo: (
     <span>
       {" "}
-      <span style={{ color: "#00e626" }}>&lt;/&gt;</span> Web Dev 2
+      <span style={{ color: "#00e626" }}>&lt;/&gt;</span> WebDev1.0
     </span>
   ),
   project: {
@@ -39,7 +39,7 @@ export default {
     const { asPath } = useRouter();
     if (asPath !== "/") {
       return {
-        titleTemplate: "%s – Web Dev 2",
+        titleTemplate: "%s – WebDev1.0",
       };
     }
   },

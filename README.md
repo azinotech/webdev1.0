@@ -1,4 +1,4 @@
-# Web Dev 2 Content
+# WebDev1.0 Content
 
 This project is the content for the Web Development 2 course at SAIT. It is created using [Nextra](https://nextra.site/).
 
