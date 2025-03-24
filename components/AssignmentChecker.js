@@ -6,7 +6,6 @@ function AssignmentChecker({ week }) {
   const [status, setStatus] = useState({ loading: false, error: null });
 
   const repoName = `cprg306-assignments`;
-  // const repoName = `webdev2-community-events`;
 
   const checkUrl = async (url) => {
     try {

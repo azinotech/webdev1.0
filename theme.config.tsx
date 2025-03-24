@@ -8,7 +8,7 @@ export default {
     </span>
   ),
   project: {
-    link: "https://github.com/warsylewicz/webdev2",
+    link: "https://github.com/azinotech/webdev1.0",
   },
   chat: {
     link: process.env.NEXT_PUBLIC_INSTRUCTOR_TEAMS_CHAT,
@@ -30,7 +30,7 @@ export default {
     placeholder: "Search content...",
   },
 
-  docsRepositoryBase: "https://github.com/warsylewicz/webdev2/tree/main",
+  docsRepositoryBase: "https://github.com/azinotech/webdev1.0/tree/main",
   footer: {
     text: "Programming is best learned by solving problems. If you want to learn more, create more problems.",
   },
