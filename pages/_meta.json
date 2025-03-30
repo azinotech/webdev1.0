@@ -1,6 +1,6 @@
 {
   "index": "Home",
-  "course-info": "Course Information",
+  "course-info": "Course Content",
   "development-environment-setup": "Guide: Setting Up Your Development Environment",
   "references": "Reference Documentation",
   "instructor-announcements": { "display": "hidden" }
